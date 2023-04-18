@@ -1,4 +1,4 @@
-# Solar2MQTT_P18
+Solar2MQTT_P18
 This is a remake of Rocky , https://github.com/softwarecrash .
 Its using the P18 protocol (Hybrid Voltronic inverters).
 The code is not 100% complete, but working good.
